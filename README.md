@@ -1,6 +1,8 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+### Name: Renick Fabian Rajesh
+### Register Number: 212224230227
 
-### DATE: 
+### DATE: 6/05/2025
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -46,9 +48,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![Screenshot 2025-05-06 134840](https://github.com/user-attachments/assets/e371f40b-7a21-4c4b-9d2b-c4165a856cc3)
 
-### Name:
-### Register Number:
+![Screenshot 2025-05-06 134859](https://github.com/user-attachments/assets/391e2f62-7169-436b-8d99-0429fbf7f5c6)
+
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
